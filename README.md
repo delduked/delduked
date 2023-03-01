@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @delduked
 - 👀 I'm a DevOps analyst and Backend Developer
 
-![alt text](https://github.com/delduked/delduked/blob/main/cert_mark_SA_small_150px.png?raw=true)
+![alt text](https://community.scaledagile.com/apex/PrintAchievement?aid=a0t0W00000HtrpnQAB&aaid=a0r6T00000PbxRFQAZ)
 
 
 <!---
